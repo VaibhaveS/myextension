@@ -1,0 +1,5 @@
+# pg_unbreak extension
+comment = 'pg_unbreak helps making your schema compatible against breaking changes.'
+default_version = '0.0.1'
+module_pathname = '$libdir/pg_unbreak'
+relocatable = true
